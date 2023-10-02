@@ -1,7 +1,7 @@
-let Conc1 = "Macaco ";
-let Conc2 = "No Navio";
-let Concatenar = Conc1.concat(Conc2);
-console.log(Concatenar);
+let conc1 = "Macaco ";
+let conc2 = "No Navio";
+let concatenar = conc1.concat(conc2);
+console.log(concatenar);
 
 let Max = Math.max(20);
 console.log(Max);
